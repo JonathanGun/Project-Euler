@@ -16,4 +16,4 @@ My solution to [Project Euler](https://projecteuler.net) problems.
 * 151 - all : 0.75% (4)
 
 ## Lost files
-23, 34, 39, 50, 58, 59, 64
+23, 34, 39, 50, 58, 59, 64, 94, 119
